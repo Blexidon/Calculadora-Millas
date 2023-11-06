@@ -1,0 +1,10 @@
+C:\Users\Lauta\source\repos\Calculadora Millas\Calculadora Millas\bin\Debug\Calculadora Millas.exe.config
+C:\Users\Lauta\source\repos\Calculadora Millas\Calculadora Millas\bin\Debug\Calculadora Millas.exe
+C:\Users\Lauta\source\repos\Calculadora Millas\Calculadora Millas\bin\Debug\Calculadora Millas.pdb
+C:\Users\Lauta\source\repos\Calculadora Millas\Calculadora Millas\obj\Debug\Calculadora Millas.csproj.AssemblyReference.cache
+C:\Users\Lauta\source\repos\Calculadora Millas\Calculadora Millas\obj\Debug\Calculadora_Millas.Form1.resources
+C:\Users\Lauta\source\repos\Calculadora Millas\Calculadora Millas\obj\Debug\Calculadora_Millas.Properties.Resources.resources
+C:\Users\Lauta\source\repos\Calculadora Millas\Calculadora Millas\obj\Debug\Calculadora Millas.csproj.GenerateResource.cache
+C:\Users\Lauta\source\repos\Calculadora Millas\Calculadora Millas\obj\Debug\Calculadora Millas.csproj.CoreCompileInputs.cache
+C:\Users\Lauta\source\repos\Calculadora Millas\Calculadora Millas\obj\Debug\Calculadora Millas.exe
+C:\Users\Lauta\source\repos\Calculadora Millas\Calculadora Millas\obj\Debug\Calculadora Millas.pdb
